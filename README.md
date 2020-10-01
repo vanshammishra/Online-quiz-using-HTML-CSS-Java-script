@@ -1,2 +1,2 @@
 # Online-quiz-using-HTML-CSS-Java-script
-a simple web page you can design for  Quiz
+Quiz Online Systemp working like KBC you can make a website in just few minutes by HTML, JAVA script and CSS 
